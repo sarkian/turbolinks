@@ -19,7 +19,7 @@
     "require": {
         "php": ">=5.4.0",
         "illuminate/support": "~5.0",
-        "helthe/turbolinks": "~1.4",
+        "helthe/turbolinks": "dev-master",
         "barryvdh/laravel-stack-middleware": "~0.2.0"
     },
     "autoload": {
@@ -31,5 +31,11 @@
         "preferred-install": "dist"
     },
     "prefer-stable": true,
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/sarkian/Turbolinks-1"
+        }
+    ]
 }
