@@ -19,7 +19,7 @@
     "require": {
         "php": ">=5.4.0",
         "illuminate/support": "~5.0",
-        "helthe/turbolinks": "dev-master",
+        "sarkian/turbolinks-component": "dev-master",
         "barryvdh/laravel-stack-middleware": "~0.2.0"
     },
     "autoload": {
