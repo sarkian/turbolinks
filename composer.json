@@ -19,7 +19,7 @@
     "require": {
         "php": ">=5.4.0",
         "illuminate/support": "~5.0",
-        "sarkian/turbolinks-component": "dev-master",
+        "sarkian/turbolinks-component": "~1.4.4",
         "barryvdh/laravel-stack-middleware": "~0.2.0"
     },
     "autoload": {
@@ -30,7 +30,7 @@
     "config": {
         "preferred-install": "dist"
     },
-    "prefer-stable": true,
+    "prefer-stable": false,
     "minimum-stability": "dev",
     "repositories": [
         {
